@@ -1,4 +1,4 @@
-### ✨👋 Oi! Há alguns meses estou estudando programação. Fique a vontade para ver meu perfil 👋✨
+### ✨�Oi!👋 Há alguns meses estou estudando programação. Fique a vontade para ver meu perfil �✨
 
 
 - 🌱 Estudando Python
