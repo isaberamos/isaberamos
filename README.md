@@ -1,4 +1,4 @@
-### Oi!👋 Há alguns meses estou estudando programação. ✨
+### Oi!👋 Há alguns meses estou estudando programação. ✨👨‍💻
 
 
 - 🌱 Estudando Python
