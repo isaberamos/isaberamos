@@ -2,7 +2,6 @@
 
 
 - 🌱 Estudando Python
-- 👯🔭 Em busca de uma oportunidade para iniciar na área profissional
 - 📫 Meu contato: rmsisabella@gmail.com
 
   <div> 
