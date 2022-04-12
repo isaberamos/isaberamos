@@ -1,7 +1,7 @@
 ### Oi!👋 Há alguns meses estou estudando programação. ✨👨‍💻
 
 
-- 🌱 Estudando Python e Java
+- 🌱 Estudando Python
 - 📫 Meu contato: rmsisabella@gmail.com
 
   <div> 
