@@ -1,4 +1,4 @@
-### Oi!👋 Há alguns meses estou estudando programação. ✨👨‍💻
+### Olá!👋 Sou estudante de programação procurando uma oportunidade de atuação no mercado. ✨👨‍💻
 
 
 - 🌱 Estudando Python, ReactJS e NodeJS
