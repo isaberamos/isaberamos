@@ -1,7 +1,7 @@
 ### Olá!👋 Sou estudante de programação em busca da primeira atuação no mercado. ✨👨‍💻
 
 
-- 🌱 Estudando Python, ReactJS e NodeJS
+- 🌱 Estudando Python e ReactJS
 - 📫 Meu contato: rmsisabella@gmail.com
 
   <div> 
