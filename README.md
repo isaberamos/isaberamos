@@ -1,4 +1,4 @@
-### Olá!👋 Sou estudante de programação procurando uma oportunidade de atuação no mercado. ✨👨‍💻
+### Olá!👋 Sou estudante de programação em busca da primeira atuação no mercado. ✨👨‍💻
 
 
 - 🌱 Estudando Python, ReactJS e NodeJS
