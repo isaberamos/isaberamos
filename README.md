@@ -1,4 +1,4 @@
-### Olá!👋 Sou estudante de programação. ✨👨‍💻
+### Olá!👋 Sou estudante de programação para desenvolvimento de softwares. ✨👨‍💻
 
 
 - 🌱 Estudando Python e ReactJS
