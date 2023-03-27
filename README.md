@@ -1,11 +1,11 @@
-### Olá!👋 Sou estudante de programação para desenvolvimento de softwares. ✨👨‍💻
+### Hello!👋 I am a software development student. ✨👨‍💻
 
 
-- 🌱 Estudando Python e ReactJS
-- 📫 Meu contato: rmsisabella@gmail.com
+- 🌱 Python and ReactJS
+- 📫 Contact: rmsisabella@gmail.com
 
   <div> 
-  Você também pode me chamar no Linkedin: 
+  You can also call me on Linkedin: 
   
     <a href="https://www.linkedin.com/in/isabellacramos/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
