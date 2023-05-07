@@ -1,4 +1,4 @@
-### Hello!👋 I am a software development student. ✨👨‍💻
+### Hello!👋 I am a software developer. ✨👨‍💻
 
 
 - 🌱 Python and ReactJS
