@@ -1,7 +1,7 @@
 ### Hello!👋 I am a software developer student. ✨👨‍💻
 
 
-- 🌱 Python and ReactJS
+- 🌱 Python, Django and ReactJS
 - 📫 Contact: rmsisabella@gmail.com
 
   <div> 
